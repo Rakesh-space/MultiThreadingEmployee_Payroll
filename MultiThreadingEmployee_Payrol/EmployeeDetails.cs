@@ -11,6 +11,7 @@ namespace MultiThreadingEmployee_Payrol
         public int EmployeeId { get; set; }
         public string EmployeeName { get; set; }
         public long PhoneNumber { get; set; }
+
         public string Address { get; set; }
         public string Department { get; set; }
         public string Gender { get; set; }
@@ -37,6 +38,7 @@ namespace MultiThreadingEmployee_Payrol
             this.StartDate = StartDate;
 
         }
+
         public EmployeeDetails(int EmployeeId, string EmployeeName, int PhoneNumber, string Address, string Department, string Gender, int BasicPay, int Deduction, int TaxablePay, int IncomeTax, int NetPay)
         {
             this.EmployeeId = EmployeeId;

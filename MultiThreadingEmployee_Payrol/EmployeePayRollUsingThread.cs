@@ -8,6 +8,7 @@ namespace MultiThreadingEmployee_Payrol
 {
     public class EmployeePayRollUsingThread
     {
+
         public List<EmployeeDetails> employeeDetailsList = new List<EmployeeDetails>();
         public void addEmployeeToPayroll(List<EmployeeDetails> employeeDetailsList)
         {
@@ -23,17 +24,17 @@ namespace MultiThreadingEmployee_Payrol
         {
             employeeDetailsList.ForEach(employeeData =>
             {
-                // here One Thread is created by using new keyword with "Task" class
                 Task thread = new Task(() =>
                 {
                     Console.WriteLine(" Employee being added: " + employeeData.EmployeeName);
                     this.addEmployeePayroll(employeeData);
                     Console.WriteLine(" Employee added: " + employeeData.EmployeeName);
                 });
-                thread.Start(); //here Threa will be start for the execution
+                thread.Start();
             });
             Console.WriteLine(this.employeeDetailsList.Count());
         }
+
 
         public void addEmployeePayroll(EmployeeDetails emp)
         {

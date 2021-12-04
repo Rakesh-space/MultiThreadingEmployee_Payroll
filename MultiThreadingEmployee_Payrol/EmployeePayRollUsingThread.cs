@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MultiThreadingEmployee_Payrol
 {
-    class EmployeePayRollUsingThread
+    public class EmployeePayRollUsingThread
     {
         public List<EmployeeDetails> employeeDetailsList = new List<EmployeeDetails>();
         public void addEmployeeToPayroll(List<EmployeeDetails> employeeDetailsList)

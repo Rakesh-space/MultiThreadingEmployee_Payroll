@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace MultiThreadingEmployee_Payrol
 {
@@ -6,7 +7,9 @@ namespace MultiThreadingEmployee_Payrol
     {
         static void Main(string[] args)
         {
+         
             Console.WriteLine("Welcome to MultiThreading Employee_Payrol..!");
+            Console.ReadLine();
         }
     }
 }

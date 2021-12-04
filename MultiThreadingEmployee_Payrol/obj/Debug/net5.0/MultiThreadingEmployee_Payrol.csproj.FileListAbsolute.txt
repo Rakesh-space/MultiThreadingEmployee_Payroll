@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\MultiThreadingEmployee_Payrol\MultiThreadingEmployee_Payrol\bin\Debug\net5.0\MultiThreadingEmployee_Payrol.exe
+C:\Users\admin\source\repos\MultiThreadingEmployee_Payrol\MultiThreadingEmployee_Payrol\bin\Debug\net5.0\MultiThreadingEmployee_Payrol.deps.json
+C:\Users\admin\source\repos\MultiThreadingEmployee_Payrol\MultiThreadingEmployee_Payrol\bin\Debug\net5.0\MultiThreadingEmployee_Payrol.runtimeconfig.json
+C:\Users\admin\source\repos\MultiThreadingEmployee_Payrol\MultiThreadingEmployee_Payrol\bin\Debug\net5.0\MultiThreadingEmployee_Payrol.runtimeconfig.dev.json
+C:\Users\admin\source\repos\MultiThreadingEmployee_Payrol\MultiThreadingEmployee_Payrol\bin\Debug\net5.0\MultiThreadingEmployee_Payrol.dll
+C:\Users\admin\source\repos\MultiThreadingEmployee_Payrol\MultiThreadingEmployee_Payrol\bin\Debug\net5.0\ref\MultiThreadingEmployee_Payrol.dll
+C:\Users\admin\source\repos\MultiThreadingEmployee_Payrol\MultiThreadingEmployee_Payrol\bin\Debug\net5.0\MultiThreadingEmployee_Payrol.pdb
+C:\Users\admin\source\repos\MultiThreadingEmployee_Payrol\MultiThreadingEmployee_Payrol\obj\Debug\net5.0\MultiThreadingEmployee_Payrol.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\MultiThreadingEmployee_Payrol\MultiThreadingEmployee_Payrol\obj\Debug\net5.0\MultiThreadingEmployee_Payrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\MultiThreadingEmployee_Payrol\MultiThreadingEmployee_Payrol\obj\Debug\net5.0\MultiThreadingEmployee_Payrol.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\MultiThreadingEmployee_Payrol\MultiThreadingEmployee_Payrol\obj\Debug\net5.0\MultiThreadingEmployee_Payrol.AssemblyInfo.cs
+C:\Users\admin\source\repos\MultiThreadingEmployee_Payrol\MultiThreadingEmployee_Payrol\obj\Debug\net5.0\MultiThreadingEmployee_Payrol.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\MultiThreadingEmployee_Payrol\MultiThreadingEmployee_Payrol\obj\Debug\net5.0\MultiThreadingEmployee_Payrol.dll
+C:\Users\admin\source\repos\MultiThreadingEmployee_Payrol\MultiThreadingEmployee_Payrol\obj\Debug\net5.0\ref\MultiThreadingEmployee_Payrol.dll
+C:\Users\admin\source\repos\MultiThreadingEmployee_Payrol\MultiThreadingEmployee_Payrol\obj\Debug\net5.0\MultiThreadingEmployee_Payrol.pdb
+C:\Users\admin\source\repos\MultiThreadingEmployee_Payrol\MultiThreadingEmployee_Payrol\obj\Debug\net5.0\MultiThreadingEmployee_Payrol.genruntimeconfig.cache

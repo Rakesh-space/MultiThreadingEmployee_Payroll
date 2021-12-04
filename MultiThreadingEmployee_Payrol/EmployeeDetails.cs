@@ -37,5 +37,19 @@ namespace MultiThreadingEmployee_Payrol
             this.StartDate = StartDate;
 
         }
+        public EmployeeDetails(int EmployeeId, string EmployeeName, int PhoneNumber, string Address, string Department, string Gender, int BasicPay, int Deduction, int TaxablePay, int IncomeTax, int NetPay)
+        {
+            this.EmployeeId = EmployeeId;
+            this.EmployeeName = EmployeeName;
+            this.PhoneNumber = PhoneNumber;
+            this.Address = Address;
+            this.Department = Department;
+            this.Gender = Gender;
+            this.BasicPay = BasicPay;
+            this.Deduction = Deduction;
+            this.TaxablePay = TaxablePay;
+            this.IncomeTax = IncomeTax;
+            this.NetPay = NetPay;
+        }
     }
 }
